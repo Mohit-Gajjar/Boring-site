@@ -1,16 +1,11 @@
-# boaring_application
 
-A new Flutter project.
+## A Boring site
 
-## Getting Started
+Feeling bored? I got it, here's something for you!!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/Mohit-Gajjar/Boring-site/blob/master/assets/Screenshot_20221210_084410.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Links
+https://a-boring-site.web.app/#/
